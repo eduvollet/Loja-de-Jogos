@@ -1,0 +1,44 @@
+create database DGgames;
+create table cadastra_cliente(
+	cpf varchar(15) not null primary key,
+	nome varchar(60),
+	email varchar(100),
+	cidade varchar(200),
+	cep varchar(12),
+	data_nascimento varchar(11),
+	celular varchar(14),
+	foto varchar(300))
+
+select * from cadastra_cliente;
+
+create table cadastrar_funcionario(
+	cpf_funcionario varchar(15) not null primary key,
+	nome_funcionario varchar(60),
+	email_funcionario varchar(100),
+	endereco varchar(200),
+	complemento varchar(100),
+	celular varchar(14),
+	login_funcionario varchar(40),
+	senha_funcionario varchar(40),
+	foto varchar(300))
+
+select * from cadastrar_funcionario;
+
+create table cadastrar_produto(
+	nome_produto varchar (30),
+	codigo_produto varchar (10) not null primary key,
+	unidades int,
+	preco varchar(10))
+
+select * from cadastrar_produto;
+
+create table vendas(
+	codigo_produto varchar (10),
+	preco varchar(10),
+	cpf_cliente varchar(15),
+	nome_cliente varchar (60),
+	forma_pagamento varchar (30),
+	presente varchar (4),
+	foto varchar (300))
+
+select * from vendas;

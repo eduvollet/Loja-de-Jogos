@@ -1,0 +1,98 @@
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\Interop.ADODB.dll
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.ResolveComReference.cache
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.Form1.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_clientes.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_funcionario.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_produto.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_gerente.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_venda.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_vendedor.resources
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.GenerateResource.cache
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfoInputs.cache
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfo.vb
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.CoreCompileInputs.cache
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.exe
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.deps.json
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.runtimeconfig.json
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.dll
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.pdb
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.dll
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\refint\DGgames 2.dll
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.pdb
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.genruntimeconfig.cache
+D:\FATEC\ADS2\Sist Info\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\ref\DGgames 2.dll
+E:\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.exe
+E:\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.deps.json
+E:\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.runtimeconfig.json
+E:\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.dll
+E:\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.pdb
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\Interop.ADODB.dll
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.ResolveComReference.cache
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.Form1.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_clientes.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_funcionario.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_produto.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_gerente.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_venda.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_vendedor.resources
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.GenerateResource.cache
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfoInputs.cache
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfo.vb
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.CoreCompileInputs.cache
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.dll
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\refint\DGgames 2.dll
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.pdb
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.genruntimeconfig.cache
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\ref\DGgames 2.dll
+E:\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.AssemblyReference.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.exe
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.deps.json
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.runtimeconfig.json
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.dll
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.pdb
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\Interop.ADODB.dll
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.ResolveComReference.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.Form1.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_clientes.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_funcionario.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_produto.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_gerente.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_venda.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_vendedor.resources
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.GenerateResource.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfoInputs.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfo.vb
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.CoreCompileInputs.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.dll
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\refint\DGgames 2.dll
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.pdb
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.genruntimeconfig.cache
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\ref\DGgames 2.dll
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.exe
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.deps.json
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.runtimeconfig.json
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.dll
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\bin\Debug\net6.0-windows\DGgames 2.pdb
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\Interop.ADODB.dll
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.ResolveComReference.cache
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.Form1.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_clientes.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_funcionario.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_cadastrar_produto.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_gerente.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_venda.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames_2.frm_vendedor.resources
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.GenerateResource.cache
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfoInputs.cache
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.AssemblyInfo.vb
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.CoreCompileInputs.cache
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.dll
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\refint\DGgames 2.dll
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.pdb
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.genruntimeconfig.cache
+E:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\ref\DGgames 2.dll
+D:\FATEC\ADS2\DGgames\DGgames 2\DGgames 2\obj\Debug\net6.0-windows\DGgames 2.vbproj.AssemblyReference.cache
